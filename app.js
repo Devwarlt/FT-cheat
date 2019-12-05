@@ -1180,7 +1180,7 @@ webpackJsonp([ 0 ], [ function(t, e, s) {
     var b = s(45), _ = n(b);
     e.Actions = _.default;
     var k = s(46), w = n(k);
-    e.enableBeforeUnload = w.default;
+    e.useBeforeUnload = w.default;
     var C = s(47), E = n(C);
     e.enableQueries = E.default;
     var S = r.default(a.default, "Using createLocation without a history instance is deprecated; please use history.createLocation instead");
